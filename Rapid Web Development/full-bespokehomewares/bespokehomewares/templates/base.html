@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--Meta-->
+<head>
+    <link rel="stylesheet" href="../static/CSS/style.css">
+    <meta charset="utf=8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <meta name="description" content="homeware store">
+    <title>Bespoke Homewares</title>
+</head>
+
+<!-- Contains the main contents of the home page-->
+
+<body>
+    <header>
+
+        <!--Navigation Bar content-->
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark static-top">
+            <!-- Brand -->
+            <a class="navbar-brand" href="{{ url_for('main.index') }}">BESPOKE HOMEWARES</a>
+
+            <!-- Links -->
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ url_for('main.index') }}">Home</a>
+                </li>
+
+                <!-- Dropdown -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="{{ url_for('main.viewroom') }}" id="navbardrop" data-toggle="dropdown">Rooms</a>
+                    
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="{{ url_for('main.viewroom') }}">View All</a>
+                        <a class="dropdown-item" href="{{ url_for('main.roomhomewares', roomid=1) }}">Bedroom</a>
+                        <a class="dropdown-item" href="{{ url_for('main.roomhomewares', roomid=2) }}">Kitchen</a>
+                        <a class="dropdown-item" href="{{ url_for('main.roomhomewares', roomid=3) }}">Bathroom</a>                
+                    </div>
+                </li>
+
+                <!--Standard link-->
+                <li class="nav-item">
+                    <a class="nav-link" href="{{url_for('main.order')}}">Basket</a>
+                </li>
+            </ul>
+        </nav>
+
+        <!--Flask messages-->
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            <div class="alert alert-primary" role="alert">
+            {% for message in messages %}
+                {{ message }}
+            {% endfor %}
+            </div>
+        {% endif %}
+        {% endwith %} 
+
+        {% block head %}{% endblock %}
+        
+    </header>
+
+    <!-- main page container-->
+    <div class="container-fluid">
+        <main>
+            {% block main %}{% endblock %}
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container text-center">
+            <p>Copyright © BH 2020; All photos sourced from Adairs and West Elm</p>
+        </div>
+    </footer>
+
+    <!--Scripts-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

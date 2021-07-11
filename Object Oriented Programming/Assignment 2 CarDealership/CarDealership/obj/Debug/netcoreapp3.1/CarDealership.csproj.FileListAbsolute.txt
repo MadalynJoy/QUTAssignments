@@ -1,0 +1,52 @@
+C:\Users\User\source\repos\CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.exe
+C:\Users\User\source\repos\CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.deps.json
+C:\Users\User\source\repos\CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.runtimeconfig.json
+C:\Users\User\source\repos\CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.runtimeconfig.dev.json
+C:\Users\User\source\repos\CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.dll
+C:\Users\User\source\repos\CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.pdb
+C:\Users\User\source\repos\CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.AssemblyInfo.cs
+C:\Users\User\source\repos\CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.dll
+C:\Users\User\source\repos\CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.pdb
+C:\Users\User\source\repos\CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.genruntimeconfig.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.AssemblyInfo.cs
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.dll
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.pdb
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.exe
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.deps.json
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.runtimeconfig.json
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.runtimeconfig.dev.json
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.dll
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.pdb
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 1 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.genruntimeconfig.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.exe
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.deps.json
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.runtimeconfig.json
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.runtimeconfig.dev.json
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.dll
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.pdb
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.AssemblyInfo.cs
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.dll
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.pdb
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\REAL Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.genruntimeconfig.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.exe
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.deps.json
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.runtimeconfig.json
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.runtimeconfig.dev.json
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.dll
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\bin\Debug\netcoreapp3.1\CarDealership.pdb
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.AssemblyInfo.cs
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.dll
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.pdb
+C:\Users\User\source\repos\IFQ556 - Object Oriented Programming\Assignment 2 Madalyn Redpath CarDealership\CarDealership\obj\Debug\netcoreapp3.1\CarDealership.genruntimeconfig.cache

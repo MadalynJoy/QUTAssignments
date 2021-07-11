@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block main %}
+<!--Header info-->
+<section>
+    <div class="info-heading">
+        <h1>ROOMS</h1>
+    </div>
+
+    <div>
+        <h4 class="text-center">Start your decor journey here</h4>
+        <p class="text-center">We've carefully put together collections for each room.</p>
+    </div>
+
+<!--Generate view for all Rooms-->
+</section>
+    <div class="card-deck">
+
+        {% for room in room%}
+        <div class="card">
+            <h4 class="card-title text-center vertical-center">{{room.name}}</h4>
+            <div class="card-body">
+                <a href="{{ url_for('main.roomhomewares', roomid=room.id) }}">
+                    <img class="card-img-top" src="{{url_for('static', filename='img/'+room.image)}}" alt="Card image">
+                </a>
+            </div>
+        </div>
+        {% endfor %}
+
+    </div>
+<section>
+
+
+</section>
+{% endblock %}

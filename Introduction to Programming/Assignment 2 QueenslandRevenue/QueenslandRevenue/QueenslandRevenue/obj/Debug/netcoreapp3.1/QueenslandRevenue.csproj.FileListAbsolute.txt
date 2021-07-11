@@ -1,0 +1,39 @@
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.exe
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.deps.json
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.runtimeconfig.json
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.runtimeconfig.dev.json
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.dll
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.pdb
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.csprojAssemblyReference.cache
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.AssemblyInfo.cs
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.dll
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.pdb
+C:\Users\User\source\repos\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.genruntimeconfig.cache
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.exe
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.deps.json
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.runtimeconfig.json
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.runtimeconfig.dev.json
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.dll
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.pdb
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.AssemblyInfo.cs
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.dll
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.pdb
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.genruntimeconfig.cache
+C:\Users\User\source\repos\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.exe
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.deps.json
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.runtimeconfig.json
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.runtimeconfig.dev.json
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.dll
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\bin\Debug\netcoreapp3.1\QueenslandRevenue.pdb
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.AssemblyInfo.cs
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.dll
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.pdb
+C:\Users\User\source\repos\IFQ555 - Introduction to Programming\Assignments\Assignment 2 Madalyn Redpath QueenslandRevenue\QueenslandRevenue\QueenslandRevenue\obj\Debug\netcoreapp3.1\QueenslandRevenue.genruntimeconfig.cache

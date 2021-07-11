@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<!--Banner-->
+<section class="hero">
+    <div id="banner">
+        <img src="../static/img/banner.jpg" alt="We are here to help you choose">
+    </div>
+</section>
+{% endblock %}
+
+{% block main %}
+<!--Header and sale details-->
+<section class="sale">
+    <div>
+        <h1 class="sale-text">SALE!</h1>
+        <p class="sale-para">This week we are focusing on making cosy bedroom retreats with up to 30% off.
+            Save now on your perfect sleep haven by clicking below!</p>
+    </div>
+</section>
+
+<!--Display weekly sale-->
+<section>
+    <div class="container">
+        <div class="card-deck">
+            <div class="card bg-saleroom">
+                <a href="{{ url_for('main.roomhomewares', roomid=1) }}">
+                    <img class="card-img-top" src="../static/img/saleroom.jpg" alt="bedroom">
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block main %}
+<!-- Header info -->
+<section>
+    <div>
+        <h4 class="text-center">The decor trends for this month</h4>
+        <p class="text-center">Browse our carefully curated homewares below!</p>
+    </div>
+
+    <!--All homewares which are specifc to the room are displayed-->
+    <div class="card-columns">
+        {% for homeware in homewares%}
+        <div class="card">
+            <img class="card-img-top" src="{{url_for('static', filename='img/'+homeware.image)}}" alt="Card image">
+            <div class="card-body">
+                <h3 class="card-title">{{homeware.name}}</h3>
+                <h5 class="card-text">{{ "$%.2f"|format(homeware.price) }}</h5>
+                <p class="card-text">{{homeware.description}}</p>
+            </div>
+            <div class="card-footer">
+                <form action="{{ url_for('main.order') }}">
+                    <input type="hidden" id="homeware_id" name="homeware_id" value="{{ homeware.id }}">
+                    <input class="btn btn-info" type="submit" value="Add to Basket">
+                </form>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+</section>
+{% endblock %}
