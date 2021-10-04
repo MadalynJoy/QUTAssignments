@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\bin\Debug\netcoreapp3.1\ExtendableFramework.exe
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\bin\Debug\netcoreapp3.1\ExtendableFramework.deps.json
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\bin\Debug\netcoreapp3.1\ExtendableFramework.runtimeconfig.json
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\bin\Debug\netcoreapp3.1\ExtendableFramework.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\bin\Debug\netcoreapp3.1\ExtendableFramework.dll
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\bin\Debug\netcoreapp3.1\ExtendableFramework.pdb
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\obj\Debug\netcoreapp3.1\ExtendableFramework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\obj\Debug\netcoreapp3.1\ExtendableFramework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\obj\Debug\netcoreapp3.1\ExtendableFramework.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\obj\Debug\netcoreapp3.1\ExtendableFramework.AssemblyInfo.cs
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\obj\Debug\netcoreapp3.1\ExtendableFramework.dll
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\obj\Debug\netcoreapp3.1\ExtendableFramework.pdb
+C:\Users\User\source\repos\ExtendableFramework\ExtendableFramework\obj\Debug\netcoreapp3.1\ExtendableFramework.genruntimeconfig.cache
